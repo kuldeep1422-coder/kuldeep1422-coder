@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Kuldeep Gupta 👋</h1>
-  <p><strong>Java Developer | Backend Enthusiast</strong></p>
+ <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Full+Stack+Explorer" alt="Typing SVG" />
+  </a>
+
+  <p>📍 Mumbai, India</p>
   <p>📍 Mumbai, India</p>
 
   <!-- Connect Section -->
